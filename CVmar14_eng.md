@@ -127,14 +127,17 @@ https://docs.google.com/present/edit?id=0AVOWBgfN7Ql2ZDQ3M3Fxel84N2NnM2RkcmZm
   * 2002, Recycle Portugal, organize a series of lectures at the Faculty of Architecture of Lisbon, Communication "Student Recycling."
   * 1999, Home Automation, Coimbra, Engineering Week with Louis Architect Albuquerque.
   * 1998, 44th World Congress of International Federation for Housing, Urban Planning and Public Works, Centro Cultural de Belém, Lisbon participant.
-| ![alt text](http://cultura.esy.es/images/Imagens/11.jpg "Logo Title Text 1") |
-![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20Da%20F%C3%A9nix.jpg "Logo Title Text 2") | 
-![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20InfoEmpreende.jpg "Logo Title Text 3") |
-|--|--|
 
-|  |  |
--------
-|  |  |
+<table border="1px solid black" width="100%">
+<tr>
+            <th><img src="http://cultura.esy.es/images/Imagens/11.jpg" width="100%"></th>
+        <th><img src="http://cultura.esy.es/images/Imagens/cARTAZ%20Da%20F%C3%A9nix.jpg" width="100%"></th>
+        <th><img src="http://cultura.esy.es/images/Imagens/cARTAZ%20InfoEmpreende.jpg" width="100%"></th>
+</table>
+
+</tr>
+
+</table>  
 
 #  Activities 
 (Documentary)
@@ -177,9 +180,9 @@ Ião Positivo, assotiation
 Modo B, cooperative
 POET, Project Observtory Tagus Delta, Photographic Gallert and Art School
 * (2012) Lol Magazine B, Sidengo (textos, fotos e vídeo):
-◦ 1- Artes na Modo B (http://sidengo.com/blolb )
-◦ 2- Cinedoc (http://sidengo.com/blolb1 )
-◦ 3- Recycle_B (http://sidengo.com/lolb3a )
+* 1- Artes na Modo B (http://sidengo.com/blolb)
+* 2- Cinedoc (http://sidengo.com/blolb1)
+* 3- Recycle_B (http://sidengo.com/lolb3a)
 
 
 #  _INSTALATIONS 
@@ -248,7 +251,19 @@ Individual
 
 #   Sports
   * Practice / practiced the following sports: sailing (2006/2007- Club Good Hope- Alcantara, local sailing course), squash, swimming, running, orienteering, yoga, basketball, table tennis, canoeing, cycling, chess, scuba diving and apeneia, caving, mountaineering and raids.
+  
 
-![alt text](http://cultura.esy.es/images/Imagens/Cursos.jpg) 
-![alt text](http://cultura.esy.es/images/Imagens/Linhas_JC.jpg)
-![alt text](http://cultura.esy.es/images/Imagens/Linhas%20redondas2_JC.jpg) 
+<table border="1px solid black" width="100%">
+<tr>
+            <th><img src="http://cultura.esy.es/images/Imagens/Cursos.jpg" width="100%"></th>
+        <th><img src="http://cultura.esy.es/images/Imagens/Linhas_JC.jpg" width="100%"></th>
+        <th><img src="http://cultura.esy.es/images/Imagens/Linhas%20redondas2_JC.jpg" width="100%"></th>
+</table>
+
+</tr>
+
+</table>  
+
+
+
+
