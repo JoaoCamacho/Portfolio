@@ -1,3 +1,8 @@
+title: CV+PTF_JCmar14
+date: 2014-03-16 18:08:05
+tags:
+---
+
 **`João Camacho`**
 
 ```
@@ -79,7 +84,7 @@ Architect (member OA No. 14872), consultant, lecturer and researcher in the area
   * 2003, draft licensing nursery Winnie White, Laranjeiro / Seixal
 
 
-Collaborations in the Press (writing and photography) 
+Colaborations in the Press (writing and photography) 
 #  Architecture 
   * (2009) Journal Express, 10 Commandments of Bioclimatic Architecture and bioclimatic architecture in Lisbon, digital version.
 http://downloadsexpresso.aeiou.pt/expressoonline/PDF/10M_ArqBio_080409.pdf 
@@ -88,13 +93,13 @@ http://expresso.sapo.pt/duas-solucoes-para-o-mesmo-problema#f507933
 http://forumdacasa.com/discussion/4055/mandamentos-da-arquitectura-bioclimatica/ 
 PDF: http://forumdacasa.com/discussions/?PostBackAction#Download&AttachmentID#494 
   * Production on international Press Release for new technology construction for Vila Nova de Oliveirinha/ Firemen Headquarters, Oliveira do Hospital special Green Dossier/ Expresso newspaper
-http://expresso.sapo.pt/bombeiros-na-vanguarda-da-poupanca-energetica#f507961
+http://expresso.sapo.pt/bombeiros-na-vanguarda-da-poupanca-energetica=f507961
 http://expresso.sapo.pt/arqbio
     * Production on international Press Release for new technology construction for Vila Nova de Oliveirinha/ Firemen Headquarters, Oliveira do Hospital special Green Dossier/ Expresso newspaper(portuguese, spanish, italien, french and english). Google Presentation format. 
-https://docs.google.com/present/edit?id#0AVOWBgfN7Ql2ZDQ3M3Fxel82Y2pqeGhqaG0 
-https://docs.google.com/present/edit?id#0AVOWBgfN7Ql2ZDQ3M3Fxel8xMTJnM21rZm00ag 
-https://docs.google.com/present/edit?id#0AVOWBgfN7Ql2ZDQ3M3Fxel8xMzZodG12ajdkaw 
-https://docs.google.com/present/edit?id#0AVOWBgfN7Ql2ZDQ3M3Fxel84N2NnM2RkcmZm 
+https://docs.google.com/present/edit?id=0AVOWBgfN7Ql2ZDQ3M3Fxel82Y2pqeGhqaG0 
+https://docs.google.com/present/edit?id=0AVOWBgfN7Ql2ZDQ3M3Fxel8xMTJnM21rZm00ag 
+https://docs.google.com/present/edit?id=0AVOWBgfN7Ql2ZDQ3M3Fxel8xMzZodG12ajdkaw 
+https://docs.google.com/present/edit?id=0AVOWBgfN7Ql2ZDQ3M3Fxel84N2NnM2RkcmZm 
   * (2006) + Architecture Magazine, No. 5 (critical and landscape architecture), "Architecture poetic"
   * (2004-05) Life Magazine Engineering (CAD, news theme and notebooks)
   * (2001-05) Life Magazine Architecture (landscape, image, CAD, and notebooks market theme)
@@ -122,10 +127,14 @@ https://docs.google.com/present/edit?id#0AVOWBgfN7Ql2ZDQ3M3Fxel84N2NnM2RkcmZm
   * 2002, Recycle Portugal, organize a series of lectures at the Faculty of Architecture of Lisbon, Communication "Student Recycling."
   * 1999, Home Automation, Coimbra, Engineering Week with Louis Architect Albuquerque.
   * 1998, 44th World Congress of International Federation for Housing, Urban Planning and Public Works, Centro Cultural de Belém, Lisbon participant.
-![alt text](http://cultura.esy.es/images/Imagens/11.jpg "Logo Title Text 1") 
-![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20Da%20F%C3%A9nix.jpg "Logo Title Text 2") 
-![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20InfoEmpreende.jpg "Logo Title Text 3")
+| ![alt text](http://cultura.esy.es/images/Imagens/11.jpg "Logo Title Text 1") |
+![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20Da%20F%C3%A9nix.jpg "Logo Title Text 2") | 
+![alt text](http://cultura.esy.es/images/Imagens/cARTAZ%20InfoEmpreende.jpg "Logo Title Text 3") |
+|--|--|
 
+|  |  |
+-------
+|  |  |
 
 #  Activities 
 (Documentary)
